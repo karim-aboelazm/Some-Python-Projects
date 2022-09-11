@@ -1,0 +1,10 @@
+[
+ ('Karim' , 'Aboelazm' , 'karimaboelazm66@gmail.com'  , 'engineer' ), 
+ ('Hager' , 'Mohammed' , 'hagermohammed133@gmail.com' , 'engineer' ), 
+ ('Toka'  , 'Mohammed' , 'tokamohammed3@gmail.com'    , 'student'  ), 
+ ('Jasmin', 'Mohammed' , 'jasminmohammed00@gmail.com' , 'student'  ), 
+ ('Sarah' , 'Mohammed' , 'sarahmohammed22@gmail.com'  , 'student'  ), 
+ ('Manar' , 'Mohammed' , 'manarmohammed003gmail.com'  , 'doctor'   ), 
+ ('Abdo'  , 'Ahmed'    , 'bodyahmed2@gmail.com'       , 'student'  ), 
+ ('Yasin' , 'Ahmed'    , 'yassinahmed11@gmail.com'    , 'child'    )
+]
